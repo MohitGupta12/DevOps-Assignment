@@ -1,13 +1,7 @@
 # EC2 Instance Management API with FastAPI
 This API provides a user-friendly interface to manage EC2 instances using Python's FastAPI framework. It allows you to:
 
-- Create new EC2 instances
-- List existing EC2 instances
-- Start stopped EC2 instances
-- Stop running EC2 instances
-- Terminate EC2 instances
-
-## Endpoints
+### Endpoints
 **1. GET / (root):** Returns a welcome message for the API.
 <br>
 
