@@ -46,7 +46,7 @@ spec:
         pathType: Prefix
         backend:
           service:
-	        name: cnpg-svc
+              name: cnpg-svc
             port: 
               number:5432 
 ```
